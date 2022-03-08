@@ -172,10 +172,10 @@ transition: all .2s ease-in-out;
 margin-right: 3px;
 z-index: 20;
 background: #fff;
-height: 35px;
-width: 35px;
-top: -190px;
-right: 1px;
+height: 32px;
+width: 32px;
+top: -220px;
+right: -5px;
 }
 .player__prev:hover {
   background: #D7DCE2;
@@ -475,6 +475,6 @@ left: 38%;
 }
 
 .apple{
-  left: 30%;
-  bottom:23px;
+  left: 29%;
+  bottom:27px;
 }
